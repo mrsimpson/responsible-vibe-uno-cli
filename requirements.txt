@@ -1,0 +1,4 @@
+# CLI UNO Game Dependencies
+# 
+# Enhanced graphics (optional)
+rich>=10.0.0
